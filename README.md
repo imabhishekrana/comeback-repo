@@ -1,3 +1,3 @@
 # comeback-repo
 A new me. <br>
-Author - Abhishek Rana
+Author - Abhishek Rana (BIT Sindri)
